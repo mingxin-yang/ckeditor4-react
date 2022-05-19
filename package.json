@@ -52,7 +52,6 @@
 	"homepage": "https://github.com/ckeditor/ckeditor4-react#readme",
 	"peerDependencies": {
 		"ckeditor4": "^4.19.0",
-		"react": "^16.9 || ^17"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.17.5",
